@@ -1,4 +1,4 @@
-# restaurant_ordering_OOP
+# restaurant_ordering_java_oop
 Goal: Create a business application (of your choice) that showcases mastery of your learned 
 programming skills and OOP Design. You will be required to design and implement a system 
 that allows a user to run two or more unique scenarios that demonstrate your system’s 
@@ -9,7 +9,7 @@ below
 
 Overview: Develop a business application of Restaurant management system
 
-## Requirements: 
+## requirements: 
 1. Your application should implement at least two end-to-end scenarios that demonstrate 
 the functionality of your system.
 End-to-end scenarios should be fairy complex, utilizing multiple classes, methods, and 
