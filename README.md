@@ -9,7 +9,7 @@ below
 
 Overview: Develop a business application of Restaurant management system
 
-# Requirements: 
+## Requirements: 
 1. Your application should implement at least two end-to-end scenarios that demonstrate 
 the functionality of your system.
 End-to-end scenarios should be fairy complex, utilizing multiple classes, methods, and 
@@ -20,29 +20,7 @@ decision points to accomplish a task. Your two end-to-end scenarios must be dist
 Your application should take advantage of these datatypes considering their strengths and 
 weaknesses for storing specific datasets. You’ll need to justify your choice for each data 
 type in your final presentation. 
-Scenario 1: A customer walk 
-in our restaurant to order 
-foods.
-Scenario 2: we now have new 
-menu
-Array: priceList, foodType(Order class)
-HashSet: Menu
-ArrayList: newMenu class-add more dishesName
-HashMap: Order class-getMenuDatabase 
-Fast food production line
-Outputs:
-Customer’s name
-Order number 
-Price
-Content of order
-Inputs: 
-Menu
-Burgers
-→
-i
-v
-'
-、
+
 At least one of your collections must store a composition (has-A) relationship with one of 
 your existing classes. Ex: In our Assignment, we had a Collection of type Employee inside 
 the Company class. 
@@ -50,17 +28,17 @@ All 4 collections should be utilized in your demonstrated scenarios. Each scenar
 need to include all 4 collections – but all 4 must be utilized between the 2 scenarios
 3. Your application should follow an OOP design:
 • Implement the below principles of object-oriented programming:
-o Inheritance (is-A relationships)
-o Polymorphism
-o Encapsulation
-o Composition (has-A relationships)
+- Inheritance (is-A relationships)
+- Polymorphism
+- Encapsulation
+- Composition (has-A relationships)
 • Follow an object-oriented programing architecture, using Java facilities to implement 
 the above principles. Facilities such as:
-o Private attributes, public methods, accessors and mutators.
-o Super classes and sub classes
-o Method overloading and overriding
-o Static data and methods
-o Creating and utilizing classes / objects / methods / collections when sensible.
+- Private attributes, public methods, accessors and mutators.
+- Super classes and sub classes
+- Method overloading and overriding
+- Static data and methods
+- Creating and utilizing classes / objects / methods / collections when sensible.
 • Your application should take advantage of the OOP principles and use them in a logical 
 and rational way to enhance the reusability and configurability of your code while 
 decreasing its complexity.
