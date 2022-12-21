@@ -44,19 +44,22 @@ decreasing its complexity.
 4. Additional Requirements:
 • Your two end-to-end scenarios should be designed to utilize all of the features listed 
 above.
+
 • Your main method (used to run / demo your program) should not hold the logic for 
 your application. This method should exist solely to create instances of your objects and 
 call methods when needed. The main method should be very small in comparison to 
 your other classes/methods.
+
 • The demonstration of your scenarios in your final presentation should allow a user to 
 interact with your system through a printed menu on the console. The decisions made 
 by the user should control the program’s flow and update entities based on the user’s 
-selections. Sample descriptions of scenarios are provided in the Resources section on 
-eLC.
+selections. 
+
 • You need to think about different entities in your business problem and use the best 
 OOP architecture to model them. Your last assignment on inheritance models many of 
 these items (Encapsulation, Polymorphism, Inheritance, static data members, & some 
 of your collection types) but in a much smaller scale. 
+
 • While it is not required – you may choose to “pre-load” your application with data in 
 order to showcase your scenarios. The Sample Scenarios Resource on eLC describes 
 sample scenarios and what data may need to be pre-loaded to implement them
