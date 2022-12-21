@@ -14,18 +14,16 @@ Overview: Develop a business application of Restaurant management system
 the functionality of your system.
 End-to-end scenarios should be fairy complex, utilizing multiple classes, methods, and 
 decision points to accomplish a task. Your two end-to-end scenarios must be distinct.
-[Sample end-to-end scenarios can be found in the Resources section on eLC.]
+
 2. Your application should use all four of the collections data types we covered:
 • Arrays, ArrayLists, HashMaps, HashSets
 Your application should take advantage of these datatypes considering their strengths and 
 weaknesses for storing specific datasets. You’ll need to justify your choice for each data 
-type in your final presentation. 
-
-At least one of your collections must store a composition (has-A) relationship with one of 
+type in your final presentation. At least one of your collections must store a composition (has-A) relationship with one of 
 your existing classes. Ex: In our Assignment, we had a Collection of type Employee inside 
-the Company class. 
-All 4 collections should be utilized in your demonstrated scenarios. Each scenario does not 
+the Company class. All 4 collections should be utilized in your demonstrated scenarios. Each scenario does not 
 need to include all 4 collections – but all 4 must be utilized between the 2 scenarios
+
 3. Your application should follow an OOP design:
 • Implement the below principles of object-oriented programming:
 - Inheritance (is-A relationships)
@@ -42,6 +40,7 @@ the above principles. Facilities such as:
 • Your application should take advantage of the OOP principles and use them in a logical 
 and rational way to enhance the reusability and configurability of your code while 
 decreasing its complexity.
+
 4. Additional Requirements:
 • Your two end-to-end scenarios should be designed to utilize all of the features listed 
 above.
