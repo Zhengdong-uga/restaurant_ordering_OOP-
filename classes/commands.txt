@@ -1,0 +1,8 @@
+javac Cashier.java
+javac Customer.java
+javac Food.java  
+javac Main.java  
+javac Menu.java  
+javac Person.java
+javac Restaurant.java
+java Main 
